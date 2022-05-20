@@ -22,11 +22,11 @@
 <hr>
 
 ## Patched binaries
-| Version           | Original                                              | Low Res                                            | High Res                                             |
-|-------------------|-------------------------------------------------------|----------------------------------------------------|------------------------------------------------------|
-| 2.1.0#20181212-22 | [original](binaries/2.1.0#20181212-22/original/tycam) | [low res](binaries/2.1.0#20181212-22/lowres/tycam) | [high res](binaries/2.1.0#20181212-22/highres/tycam) |
-| 2.2.1#20190116    | [original](binaries/2.2.1#20190116/original/tycam)    | [low res](binaries/2.2.1#20190116/lowres/tycam)    | [high res](binaries/2.2.1#20190116/highres/tycam)    |
-| 2.5               | Use 2.2                                               | Use 2.2                                            | Use 2.2                                              |
+| Version           | Original                                                                                         | Low Res                                                                                       | High Res                                                                                        |
+|-------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 2.1.0#20181212-22 | [original](cjj25/RTS3903N-Tuya-RTSPServer/tree/master/binaries/2.1.0#20181212-22/original/tycam) | [low res](cjj25/RTS3903N-Tuya-RTSPServer/tree/master/binaries/2.1.0#20181212-22/lowres/tycam) | [high res](cjj25/RTS3903N-Tuya-RTSPServer/tree/master/binaries/2.1.0#20181212-22/highres/tycam) |
+| 2.2.1#20190116    | [original](cjj25/RTS3903N-Tuya-RTSPServer/tree/master/binaries/2.2.1#20190116/original/tycam)    | [low res](cjj25/RTS3903N-Tuya-RTSPServer/tree/master/binaries/2.2.1#20190116/lowres/tycam)    | [high res](cjj25/RTS3903N-Tuya-RTSPServer/tree/master/binaries/2.2.1#20190116/highres/tycam)    |
+| 2.5               | Use 2.2                                                                                          | Use 2.2                                                                                       | Use 2.2                                                                                         |
 <hr>
 
 ## Root access / telnet
