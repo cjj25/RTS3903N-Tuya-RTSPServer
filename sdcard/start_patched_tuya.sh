@@ -10,13 +10,16 @@ touch /tmp/mutex
 
 cd /mnt/sdcard/
 
-# echo "Killing the existing Tuya Services"
+# Killing the existing Tuya Services
 killall ty_monitor.sh ty_wdt tycam
 
-# echo "Starting watching dog to prevent reboot"
+# Starting watching dog to prevent reboot
 ./watchdog.sh 2>&1 &
 
-# echo "Starting patched binary"
+# Ensure tycam is killed when no internet available
+kill -9 $(ps | grep tycam | awk '{ print $1 }')
+
+# Starting patched binary
 ./tycam &
 
 
