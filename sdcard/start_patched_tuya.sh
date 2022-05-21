@@ -16,8 +16,8 @@ killall ty_monitor.sh ty_wdt tycam
 # Starting watching dog to prevent reboot
 ./watchdog.sh 2>&1 &
 
-# Ensure tycam is killed when no internet available
-kill -9 $(ps | grep tycam | awk '{ print $1 }')
+# Ensure tycam is always killed!
+kill $(ps | grep tycam | awk '{ print $1 }')
 
 # Starting patched binary
 ./tycam &
