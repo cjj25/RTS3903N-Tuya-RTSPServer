@@ -6,7 +6,7 @@ if [ ! -f /mnt/sdcard/backup/mtdblock0.bin  ]; then
 fi
 
 # Start telnet
-#telnetd -l /bin/sh  &
+#busybox telnetd -l /bin/sh  &
 
 # Fork the patched tuya binary
 
