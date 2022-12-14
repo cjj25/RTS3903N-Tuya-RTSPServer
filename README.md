@@ -41,7 +41,7 @@ Connection details are rtsp://{IP_ADDRESS}:8554/
 ## Devices
 | Title                   | Model     | Link                                                           |
 |-------------------------|-----------|----------------------------------------------------------------|
-| Woox Smart Camera 1080P | R4958     | [Amazon](https://shorturl.at/jxQZ5)                            |
+| Woox Smart Camera 1080P | R4958     | [Amazon UK](https://www.amazon.co.uk/Woox-Smart-Camera-1080P-White/dp/B07NCQHS1T)                            |
 | Tuya                    | SC-WA002  | [Tuya](https://go.tuya.com/en/productDetail?code=83jsuq4jbqz8) |
 
 <hr>
